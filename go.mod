@@ -3,7 +3,7 @@ module github.com/devops-kung-fu/bomber
 go 1.20
 
 require (
-	github.com/CycloneDX/cyclonedx-go v0.7.1
+	github.com/CycloneDX/cyclonedx-go v0.8.0
 	github.com/briandowns/spinner v1.23.0
 	github.com/devops-kung-fu/common v0.2.5
 	github.com/gookit/color v1.5.3
@@ -15,7 +15,7 @@ require (
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/spf13/afero v1.9.5
 	github.com/spf13/cobra v1.7.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.4
 	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2
 )
 
