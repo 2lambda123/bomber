@@ -10,7 +10,7 @@ require (
 	github.com/jarcoal/httpmock v1.3.0
 	github.com/jedib0t/go-pretty/v6 v6.4.6
 	github.com/kirinlabs/HttpRequest v1.1.1
-	github.com/microcosm-cc/bluemonday v1.0.23
+	github.com/microcosm-cc/bluemonday v1.0.26
 	github.com/package-url/packageurl-go v0.1.0
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/spf13/afero v1.9.5
