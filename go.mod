@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/CycloneDX/cyclonedx-go v0.8.0
 	github.com/briandowns/spinner v1.23.0
-	github.com/devops-kung-fu/common v0.2.5
+	github.com/devops-kung-fu/common v0.2.6
 	github.com/gookit/color v1.5.3
 	github.com/jarcoal/httpmock v1.3.0
 	github.com/jedib0t/go-pretty/v6 v6.4.6
