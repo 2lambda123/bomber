@@ -28,6 +28,18 @@
           }
         ],
         "coordinates": [
+        {
+          "remedies": [
+            {
+              "type": "indeterminate",
+              "description": "Upgrade the package version to 0.3.61,1.2.10 to fix this vulnerability",
+              "details": {
+                "upgrade_package": "0.3.61,1.2.10"
+              }
+            }
+          ],
+          "representation": ["<0.3.61", ">=1.0.0, <1.2.10"]
+        }, 
           {
             "remedies": [
               {
